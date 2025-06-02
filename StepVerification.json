@@ -1,8 +1,14 @@
 {
-  "HWid": "12345-ABCDE",
-  "Step1": "Completed",
-  "Step2": "Pending",
-  "Step3": "Not started",
-  "Key": "XYZ-98765",
-  "ExpireDate": "2025-12-31"
+  "HWID_1": {
+    "Step1": "...",
+    "Step2": "...",
+    "Step3": "...",
+    "Key": "..."
+  },
+  "HWID_2": {
+    "Step1": "...",
+    "Step2": "...",
+    "Step3": "...",
+    "Key": "..."
+  }
 }
